@@ -23,4 +23,4 @@ Roblox Server-Side Security Engine
 - **Data Security:** Leaderstat manipülasyonu ve yetkisiz veri koruması
 - **Moderation:** Otomatik Kick, DataStore Ban ve Discord Webhook günlük desteği
 
-<video src="https://github.com/wraitstudio-cmd/Roblox-Anti-Security/blob/main/vidio.mp4" controls width="100%"></video>
+<video src="https://github.com" controls width="100%"></video>
