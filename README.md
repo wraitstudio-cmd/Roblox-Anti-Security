@@ -3,14 +3,14 @@
 Roblox Server-Side Security Engine
 
 ## [TR] İndirme ve Kurulum
-1. İndirme Bağlantısı: [İndir](https://github.com/wraitstudio-cmd/Roblox-Anti-Security/releases/download/v1.0.0/AntiSecurity.rbxm)
+1. İndirme Bağlantısı: [İndir](https://github.com)
 2. İndirdiğin `AntiSecurity.rbxm` dosyasını bilgisayarına kaydet.
 3. Roblox Studio'da projeni aç.
 4. Dosyayı doğrudan `ServerScriptService` içerisine sürükleyip bırak.
 5. Kurulum tamamlandı. Sistem otomatik olarak aktifleşecektir.
 
 ## [EN] Download & Installation
-1. Download Link: [Download](https://github.com/wraitstudio-cmd/Roblox-Anti-Security/releases/download/v1.0.0/AntiSecurity.rbxm)
+1. Download Link: [Download](https://github.com)
 2. Save the downloaded `AntiSecurity.rbxm` file to your computer.
 3. Open your project in Roblox Studio.
 4. Drag and drop `AntiSecurity.rbxm` directly into `ServerScriptService`.
@@ -23,4 +23,5 @@ Roblox Server-Side Security Engine
 - **Data Security:** Leaderstat manipülasyonu ve yetkisiz veri koruması
 - **Moderation:** Otomatik Kick, DataStore Ban ve Discord Webhook günlük desteği
 
-<video src="https://github.com" controls width="100%"></video>
+## Video Demo
+[![WraitGame | Roblox Studio Anti Security Sistemi](https://youtube.com)](https://youtu.be/k2IpYevnRSc)
