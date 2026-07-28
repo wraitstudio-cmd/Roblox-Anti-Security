@@ -1,5 +1,3 @@
-
-
 # AntiSecurity Core v1.0.0
 
 Roblox Server-Side Security Engine
@@ -25,5 +23,4 @@ Roblox Server-Side Security Engine
 - **Data Security:** Leaderstat manipülasyonu ve yetkisiz veri koruması
 - **Moderation:** Otomatik Kick, DataStore Ban ve Discord Webhook günlük desteği
 
-## License / Lisans
-Distributed under the MIT License.
+<video src="video.mp4" controls width="100%"></video>
